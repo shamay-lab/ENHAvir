@@ -1,0 +1,1 @@
+Download `checkpoint.pt` file from [here](https://drive.google.com/file/d/18aCyrEsfTgwgnhNoXzIA_uJWv8Qjl5jZ/view?usp=sharing) and keep it in this directory.
