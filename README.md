@@ -16,7 +16,7 @@ cd ENHAvir
 pip install -r requirements.txt
 ```
 
-Download `checkpoint.pt` file from [here](https://drive.google.com/file/d/18aCyrEsfTgwgnhNoXzIA_uJWv8Qjl5jZ/view?usp=sharing) and keep it in the `weights` directory.
+Download `New_Checkpoint_epoch_1.pt` file from [here](https://drive.google.com/file/d/1ejFDkZmynK59184zzkGMDySGgNosdrLV/view?usp=drive_link) and keep it in the `weights` directory.
 
 ## Using ENHAvir
 
