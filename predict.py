@@ -110,7 +110,7 @@ if __name__ == "__main__":
     model.eval()
 
     print ("Loading pretrained weights.")
-    weights = torch.load("weights/checkpoint.pt", map_location="cpu")
+    weights = torch.load("weights/New_Checkpoint_epoch_1.pt", map_location="cpu")
     model.load_state_dict(weights, strict=False)
 
     file_identifier = args.filename[:-4].split("/")[-1]
